@@ -32,6 +32,8 @@ KEY PRINCIPLES OF RESTFUL API
 
 ![Image](https://github.com/user-attachments/assets/7632ee19-55b3-4053-9b75-1eeb415b294d)
 
+![Image](https://github.com/user-attachments/assets/8e1bf711-5f17-4139-9c7f-7ba34877c759)
+
 ![Image](https://github.com/user-attachments/assets/a969743e-3ef4-43b6-a3c2-ca006c831d53)
 
 ![Image](https://github.com/user-attachments/assets/07ae9b70-59b8-4638-bb70-e019f6da4efe)
